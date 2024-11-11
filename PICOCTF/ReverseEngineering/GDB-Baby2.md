@@ -2,10 +2,9 @@
 
 This challenge requires the use of **GDB** to inspect the value of the `EAX` register at the end of the `main` function.
 
-![image](https://github.com/user-attachments/assets/0611a4b5-a33b-4dd2-9eb2-4804e76e8c08)
-
-
 ## Step 1: Setting a Breakpoint
+
+![image](https://github.com/user-attachments/assets/0611a4b5-a33b-4dd2-9eb2-4804e76e8c08)
 
 ![image](https://github.com/user-attachments/assets/0ddf1754-13c9-417f-89eb-d67017d3a367)
 
