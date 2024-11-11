@@ -22,8 +22,6 @@ Looking at the functions on the screen, we can get started on setting the breakp
 
 To identify where we need the breakpoint, we use the following GDB command:
 
-![image](https://github.com/user-attachments/assets/8a87a706-5815-4626-a13f-5a12e5b07f53)
-
 The disassembled output will show us the instructions executed within the `main` function.
 
 ![image](https://github.com/user-attachments/assets/fd7a0deb-da11-4ed0-978c-f314437cee4f)
