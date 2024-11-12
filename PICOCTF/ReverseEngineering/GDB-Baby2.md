@@ -30,5 +30,9 @@ The disassembled output will show us the instructions executed within the `main`
 ## Step 4: Finding the Value of EAX
 
 After running the disassembly, we can analyze the code and find the point where we need to examine the `EAX` register. This is where we would set the breakpoint to stop the execution and inspect the value of `EAX`.
+By setting a breakpoint at the very end of the function where eax is last used. 
+We have successfully located the value we needed.
+![image](https://github.com/user-attachments/assets/d4b98389-6fc3-4739-916d-407c17755bf6)
 
-Now, we have successfully located the value we needed.
+
+
