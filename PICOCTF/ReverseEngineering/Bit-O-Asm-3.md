@@ -39,7 +39,7 @@ EAX now stores the value of 654874 * 4 or 2619496...
 
 **<+41>:    mov    DWORD PTR [rbp-0x4],eax** -> The value of the EAX register is now stored at [rbp - 4 bytes]
 
-**<+44>:    mov    eax,DWORD PTR [rbp-0x4]** -> EAX register is set equal to the EAX register **What a shocker..*
+**<+44>:    mov    eax,DWORD PTR [rbp-0x4]** -> EAX register is set equal to the EAX register **What a shocker..**
 
 **<+47>:    pop    rbp** -> We are done and RBP is popped off. 
 
